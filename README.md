@@ -12,3 +12,10 @@ Algorithms employed include:
 and others.
 
 To shorten computation times and to ease the illustration of the behavior of certain algorithms, the study is restricted to the patterns associated to 6 out of the 12 scribes.
+
+## Correctly visualize the work
+This is an essay written in the form of a Jupyter Notebook. It contains images and LaTeX equations.  
+To correctly visualize the content of the essay, either:
+- download the HTML version and consult it on your browser
+- download the `.ipynb` version and run it locally
+- **[CLICK HERE TO VISUALIZE THE ONLINE VERSION](https://nbviewer.jupyter.org/github/m-pana/avila/blob/master/A%20digital%20approach%20to%20palaeography.ipynb) via nbviewer**
